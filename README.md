@@ -1,3 +1,3 @@
 A simple random password generator written in python
 
-Just throw it into your favorite ide and have a new password
+Just throw it into your favorite ide (I use vscodium 🙂) and generate a new password
